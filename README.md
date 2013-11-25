@@ -1,4 +1,4 @@
 testForExplorer
 ===============
 
-Repo used for the github explorer integration tests.
+Readme file on the explorer branch.
