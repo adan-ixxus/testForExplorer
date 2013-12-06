@@ -1,4 +1,4 @@
 testForExplorer
 ===============
 
-Repo used for the github explorer integration tests.
+Repository used for the github explorer integration tests and alfresco persistence tests.
