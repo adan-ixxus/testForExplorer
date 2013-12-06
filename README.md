@@ -1,4 +1,4 @@
 testForExplorer
 ===============
 
-Repo used for the github explorer integration tests
+Repo used for the github explorer integration tests.
